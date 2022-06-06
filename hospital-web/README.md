@@ -1,7 +1,6 @@
 # treatment
 
 ## Project setup
-you should install
 ```
 npm install
 ```
